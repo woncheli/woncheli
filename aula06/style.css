@@ -1,7 +1,27 @@
 body {
-    background-image: url(https://64.media.tumblr.com/58a59eab7bad8758c6b9846a07917c89/5cfd502d17174f86-9c/s500x750/ec45513600c30de114b6585f1dd68cd1899ac294.gif);
-    background-repeat: no-repeat;
-    background-size: cover 100%
-    
-    
+    background-image: url(https://www.solidbackgrounds.com/images/2048x1536/2048x1536-pastel-brown-solid-color-background.jpg);
+    text-align: center;  
+}
+h1{
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    text-align: left;
+    color: antiquewhite;
+    text-shadow: 2px 2px 2px black;
+}
+h3{
+    text-align: left;
+    color: antiquewhite;
+    text-shadow: 2px 2px 2px black;
+}
+ul{
+    text-align: left;
+    color: antiquewhite;
+    text-shadow: 2px 2px 2px black;
+}
+img{
+    border-radius: 300px;
 }
